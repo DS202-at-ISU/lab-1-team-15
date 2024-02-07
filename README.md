@@ -18,3 +18,9 @@ Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
 This is a change from RStudio.
+
+This is a line from R Studio (Jesse Dolan)
+
+This is a line from RStudio-Dhairya
+
+THIS IS AN EDIT BY JONAH LANDAS
